@@ -1,0 +1,75 @@
+
+novell SUSE         /etc/SUSE-release
+Red Hat             /etc/redhat-release, /etc/redhat_version
+Fedora              /etc/fedora-release
+Slackware           /etc/slackware-release, /etc/slackware-version
+Debian              /etc/debian_release, /etc/debian_version,
+Mandrake            /etc/mandrake-release
+Yellow dog          /etc/yellowdog-release
+Sun JDS             /etc/sun-release
+Solaris/Sparc       /etc/release
+Gentoo              /etc/gentoo-release
+UnitedLinux         /etc/UnitedLinux-release
+ubuntu              /etc/lsb-release
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1.monit service manager
+2.regis
+3.rabbit
+4.salt stack
+5.mysql
+6.http on port 9000
+7.mysql an cloud avalability and clustering
+8.install java
+9.tomcat
+10.jre jdk
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+trivia
+
+
+CALCULATE UR SITE AREA YOURSELF, No confusions, below are the conversion factors
+
+1 Hectare = 2.47 Acre
+
+1 kaani = 1.32 acre
+
+1 acre = 100 Cents
+
+1 cent = 435.60 sq.feet (ft2)
+1 cent = 40.467 sq.meter (m2)
+1 cent = 48.4 Gajam
+1 cent = 48.4 Sq Yards
+
+1 are = 2.471 cents
+1 are = 100 sq.meter
+
+1 Gajam = 1 Sq Yard
+1 Gajam = 1 Sq Yard = 9 sq feet
+
+1 Ground = 2400 sq feet
+
+1 kuli = 144 cent
+
+1 kolu = 3 feet
+
+1 kilometre = 5 furlong
+1 mile = 8 furlong
+
+1 furlong = 660 feet
+1 furlong = 10 chain
+
+1 Chain = 100 links=66 feet
+1 link / chain = 0.66 foot = 7.92 inch
+
+1 feet = 12 inch
+
+1 inch = 2.54 cm
+
+1 township = 36 sq.mile
+1 sq.mile = 640 acre
