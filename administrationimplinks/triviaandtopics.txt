@@ -73,3 +73,10 @@ CALCULATE UR SITE AREA YOURSELF, No confusions, below are the conversion factors
 
 1 township = 36 sq.mile
 1 sq.mile = 640 acre
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+x11 windows
+
+1.yum -y groupinstall "X Window System" "Desktop" "Fonts" "General Purpose Desktop"
+

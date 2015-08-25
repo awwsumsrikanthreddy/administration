@@ -426,6 +426,25 @@ link9:https://www.centosblog.com/centos-7-minimal-kickstart-file/
 
 link10:http://www.zerodev.it/automating-centos-netinstall-with-kickstart-and-remastering.html
 
+link11:https://devopslab.wordpress.com/2014/07/23/install-linux-centos-7-with-kickstart-on-virtualbox/
+
+link12:http://www.server-world.info/en/note?os=CentOS_6&p=pxe&f=3
+
+link13:http://www.tecmint.com/multiple-centos-installations-using-kickstart/
+
+link14:http://geekpeek.net/kickstart-file-centos/
+
+link15:https://lonesysadmin.net/2013/12/04/minimal-kickstart-file-red-hat-enterprise-linux-6-centos-6-oracle-linux-6-virtual-machines/
+
+link16:https://www.andrewzammit.com/blog/install-centos-6-with-anaconda-kickstart-esxi-vmware-tools/
+
+link17:https://gist.github.com/nemf/3109649
+
+link18:http://stackoverflow.com/questions/18999766/automate-installation-of-centos-6-4-minimal-with-kickstart-on-a-dvd
+
+link19:https://www.centosblog.com/centos-7-minimal-kickstart-file/
+
+link20:http://www.zerodev.it/automating-centos-netinstall-with-kickstart-and-remastering.html
 
 
 68.
