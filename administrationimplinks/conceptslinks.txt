@@ -446,5 +446,62 @@ link19:https://www.centosblog.com/centos-7-minimal-kickstart-file/
 
 link20:http://www.zerodev.it/automating-centos-netinstall-with-kickstart-and-remastering.html
 
+link21:http://www.smtps.net/pxe-kickstart.html
 
-68.
+link22:https://www.centos.org/docs/5/html/Installation_Guide-en-US/ch-redhat-config-kickstart.html
+
+link23:https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/System_Administration_Guide/s1-kickstart2-startinginstall.html
+
+link24:link: https://mikent.wordpress.com/2012/04/12/how-to-install-linux-redhat-5-x-or-6-x-using-kickstart-over-http-or-cd-rom-or-iso/
+
+link25: https://lonesysadmin.net/2013/12/04/minimal-kickstart-file-red-hat-enterprise-linux-6-centos-6-oracle-linux-6-virtual-machines/
+
+link26: http://venkataraoss.blogspot.co.uk/2011/02/kickstart-server-in-10-steps.html
+
+link27:http://modlearning.com/centos/building-a-kickstart-server-red-hat-centos-6/
+
+link28:http://how-to.linuxcareer.com/automating-linux-installations-with-kickstart
+
+link29:http://www.linuxexplorers.com/2012/03/red-hat-enterprise-linux-6-kickstart-installation-via-http/
+
+link30:http://www.cyberciti.biz/faq/kvm-install-centos-redhat-using-kickstart-ks-cfg/
+
+link31:http://venkataraoss.blogspot.in/2011/02/kickstart-server-in-10-steps.html
+
+link32:http://landoflinux.com/linux_kickstart_introduction.html
+
+link33:http://ktaraghi.blogspot.in/2012/09/automated-installation-of-centos-6x-and.html
+
+http34://www.tecmint.com/multiple-centos-installations-using-kickstart/
+
+
+68.install oracle through  kickstart
+
+link: http://docs.oracle.com/cd/E37670_01/E41137/html/ch03s02.html
+
+
+69.kickstart pxe booting
+
+link1:http://www.bgevolution.com/blog/pxe-network-boot-virtualbox/
+
+link2:http://serverfault.com/questions/617352/pxe-boot-with-virtualbox
+
+link3:http://reboot.pro/topic/9901-pxe-booting-in-virtualbox/
+
+link4:http://superuser.com/questions/448700/setting-up-virtualbox-guest-for-pxe-boot
+
+link5:http://superuser.com/questions/524034/test-pxe-using-virtualbox?rq=1
+
+70.what is clonezilla
+
+link:http://clonezilla.org/
+
+
+71.setting up itsp server
+
+link:http://www.bgevolution.com/blog/pxe-boot-thin-client-ltsp-config/
+
+
+72.tftp with kickstart
+
+link:https://www.centos.org/docs/5/html/Installation_Guide-en-US/ch-pxe.html
