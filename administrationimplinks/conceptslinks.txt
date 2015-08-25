@@ -367,6 +367,8 @@ link:http://www.unixmen.com/setup-mariadb-master-slave-replication-in-centos-7/
 
 62:vagrant provision
 
+links:
+
 link:https://docs.vagrantup.com/v2/getting-started/provisioning.html
 
 link:https://docs.vagrantup.com/v2/getting-started/project_setup.html
@@ -390,6 +392,8 @@ link:http://www.gfi.com/blog/57-tips-admin/
 link: www.sitepoint.com/full-stack-developer/
 
 66.mysql clustering
+
+links:
 
 link1: http://blog.secaserver.com/2012/11/centos-6-install-mysql-cluster-the-simple-way/
 
