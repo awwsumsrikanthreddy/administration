@@ -497,7 +497,7 @@ link5:http://superuser.com/questions/524034/test-pxe-using-virtualbox?rq=1
 link:http://clonezilla.org/
 
 
-71.setting up itsp server
+71.setting up thin client (Linux Terminal Server Project)ltsp server
 
 link:http://www.bgevolution.com/blog/pxe-boot-thin-client-ltsp-config/
 
@@ -505,3 +505,9 @@ link:http://www.bgevolution.com/blog/pxe-boot-thin-client-ltsp-config/
 72.tftp with kickstart
 
 link:https://www.centos.org/docs/5/html/Installation_Guide-en-US/ch-pxe.html
+
+link:https://www.centos.org/docs/5/html/Installation_Guide-en-US/ch-pxe.html
+
+link:http://www.tecmint.com/install-pxe-network-boot-server-in-centos-7/
+
+73.
