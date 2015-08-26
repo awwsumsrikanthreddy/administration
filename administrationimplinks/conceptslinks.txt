@@ -516,3 +516,7 @@ update-rc.d apache2 defaults
 
 link:http://askubuntu.com/questions/9382/how-can-i-configure-a-service-to-run-at-startup
 
+74.switch between servercore and server gui
+
+link:http://blogs.technet.com/b/puneetvig/archive/2012/10/16/switch-between-full-and-core-in-windows-server-2012-using-powershell-3-0.aspx
+
