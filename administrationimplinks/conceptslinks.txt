@@ -524,4 +524,6 @@ link:http://blogs.technet.com/b/puneetvig/archive/2012/10/16/switch-between-full
 
 link:http://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/
 
-76.
+76.kickstart tftp working pxe for virtualbox
+
+link: https://gist.github.com/jtyr/816e46c2c5d9345bd6c9
