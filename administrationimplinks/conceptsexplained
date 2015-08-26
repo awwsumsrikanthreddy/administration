@@ -1,5 +1,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-1.You can run your script on boot process in Ubuntu by adding it to /etc/init.d/rc.local file. Look the steps below.
+Q1.How can I configure a service to run at startup?????
+
+    You can run your script on boot process in Ubuntu by adding it to /etc/init.d/rc.local file. Look the steps below.
 
     Open /etc/rc.local file with this command:
 
@@ -9,10 +11,75 @@
 
   c.  sh /home/ivan/iptables.sh echo 'Iptable Configured!'
 
-  d  Review the comments included in that file and make sure a exit 0 is at the end.
+  d   Review the comments included in that file and make sure a exit 0 is at the end.
 
-  e. Save the files. And your script will run on boot process.
+  e.  Save the files. And your script will run on boot process.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Q2.startx  gui for ubuntu?
 
-2.
+
+  a.  Run sudo service lightdm start . This will launch lightdm and let me get into the full Ubuntu desktop. Disadvantage: I have to log in again, and there's no easy way to get rid of it without returning to the console (CTRL-ALT-1) and stopping the service. (or rebooting).
+  
+  b.  Run xinit . This puts up a minimal GUI with an xterm window, but from within that window I can run gnome-session, which seems to trigger the launch of the full Ubuntu desktop. Disadvantage: the xterm window has to remain running (gnome-session can't be put in the background). Quitting the GUI is a matter of using "Log Out" or hitting Ctrl-C in the xterm window (stopping gnome-session), then exiting the xterm window to quit the X session.
+  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Q3.How To CentOS / RHEL 7 Install Gnome Desktop Using Yum
+
+commands:
+a.yum grouplist
+b.sudo yum groups install "GNOME Desktop"  or  sudo yum groupinstall "GNOME Desktop"
+>>>>>>>>>>>>
+
+IN RHEL 7
+c.sudo yum groups install "Server with GUI"
+d.sudo yum groupinstall "Server with GUI"
+>>>>>>>>>>>>
+
+How do I set the system to boot directly into the GUI in CentOS7/RHEL 7:
+
+a.systemctl set-default graphical.target
+
+>>>>>>>>>>>>
+
+How do I switch or start GUI login from command line:
+
+a.systemctl start graphical.target
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Q3.30 Things to Do After Minimal RHEL/CentOS 7 Installation
+
+1. Register and Enable Red Hat Subscription
+2. Configure Network with Static IP Address
+3. Set Hostname of Server
+4. Update or Upgrade CentOS Minimal Install
+5. Install Command Line Web Browser
+6. Install Apache HTTP Server
+7. Install PHP
+8. Install MariaDB Database
+9. Install and Configure SSH Server
+10. Install GCC (GNU Compiler Collection)
+11. Install Java
+12. Install Apache Tomcat
+13. Install Nmap to Monitor Open Ports
+14. FirewallD Configuration
+15. Installing Wget
+16. Installing Telnet
+17. Installing Webmin
+18. Enable Third Party Repositories
+19. Install 7-zip Utility
+20. Install NTFS-3G Driver
+21. Install Vsftpd FTP Server
+22. Install and Configure sudo
+23. Install and Enable SELinux
+24. Install Rootkit Hunter
+25. Install Linux Malware Detect (LMD)
+26. Server Bandwidth Testing with Speedtest-cli
+27. Configure Cron Jobs
+28. Install Owncloud
+29. Enable Virtualization with Virtualbox
+30. Password Protect GRUB
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Q4.
