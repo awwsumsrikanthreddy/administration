@@ -510,4 +510,9 @@ link:https://www.centos.org/docs/5/html/Installation_Guide-en-US/ch-pxe.html
 
 link:http://www.tecmint.com/install-pxe-network-boot-server-in-centos-7/
 
-73.
+73.ubuntu start service at boot
+
+update-rc.d apache2 defaults
+
+link:http://askubuntu.com/questions/9382/how-can-i-configure-a-service-to-run-at-startup
+
