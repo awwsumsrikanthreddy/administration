@@ -520,3 +520,8 @@ link:http://askubuntu.com/questions/9382/how-can-i-configure-a-service-to-run-at
 
 link:http://blogs.technet.com/b/puneetvig/archive/2012/10/16/switch-between-full-and-core-in-windows-server-2012-using-powershell-3-0.aspx
 
+75.30 Things to Do After Minimal RHEL/CentOS 7 Installation
+
+link:http://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/
+
+76.
