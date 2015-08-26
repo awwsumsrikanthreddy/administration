@@ -1,0 +1,17 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1.You can run your script on boot process in Ubuntu by adding it to /etc/init.d/rc.local file. Look the steps below.
+
+    Open /etc/rc.local file with this command:
+
+  a.  vim /etc/rc.local
+
+  b.  Add your script that you want to run on boot process there, for example:
+
+  c.  sh /home/ivan/iptables.sh echo 'Iptable Configured!'
+
+  d  Review the comments included in that file and make sure a exit 0 is at the end.
+
+  e. Save the files. And your script will run on boot process.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>@2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2.
