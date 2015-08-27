@@ -527,3 +527,7 @@ link:http://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installatio
 76.kickstart tftp working pxe for virtualbox
 
 link: https://gist.github.com/jtyr/816e46c2c5d9345bd6c9
+
+77.netcat utility important send data via network swiss army knife networking tools
+
+link:https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps
