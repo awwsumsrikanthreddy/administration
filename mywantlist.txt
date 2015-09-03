@@ -1,0 +1,16 @@
+windows 
+linux
+networking
+git
+php
+mysql
+phpmyadmin
+oracle
+mongodb
+javascript
+html
+cloudconcepts
+java
+ccna
+ceh
+
