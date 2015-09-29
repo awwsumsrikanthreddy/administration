@@ -531,3 +531,10 @@ link: https://gist.github.com/jtyr/816e46c2c5d9345bd6c9
 77.netcat utility important send data via network swiss army knife networking tools
 
 link:https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps
+
+78.important concept about libraries ldd
+
+link: http://www.cyberciti.biz/tips/linux-shared-library-management.html
+
+
+79.

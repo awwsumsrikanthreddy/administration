@@ -28,4 +28,8 @@ link14:http://ifzenelse.net/en/install-and-configure-your-very-secure-ftp-vsftp-
 
 link15:https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-ftp-vsftpd-conf.html
 
+link16:link: http://www.tecmint.com/mount-google-drive-in-linux-using-google-drive-ocamlfuse-client/3/
 
+link17: http://www.cnx-software.com/2014/04/28/how-to-mount-google-drive-in-linux-with-google-drive-ocamlfuse/
+
+link18: http://www.cyberciti.biz/tips/linux-shared-library-management.html

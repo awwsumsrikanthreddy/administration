@@ -1,0 +1,62 @@
+db.runCommand( { grantRolesToUser: "admins",
+                 roles: [
+                    { role: "read", db: "admin"},
+                    "readWrite"
+                 ],
+                 writeConcern: { w: "majority" , wtimeout: 2000 }
+             } )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+db.runCommand(
+               {
+                 usersInfo:  { user: "admins", db: "test" },
+                 showPrivileges: true
+               }
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+db.getSiblingDB("product").runCommand(
+                                    {
+                                      usersInfo:  "admins",
+                                      showPrivileges: true
+                                    }
+)
+
